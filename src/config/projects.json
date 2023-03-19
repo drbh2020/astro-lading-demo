@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Project 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, recusandae. Ducimus assumenda inventore, rem recusandae distinctio animi doloribus nam, veritatis praesentium eligendi quas explicabo nesciunt sequi doloremque tenetur. Eaque, architecto porro nostrum quam ab maiores voluptates expedita. Voluptatibus explicabo nam unde? Eveniet facilis adipisci nemo pariatur repellat doloribus, beatae accusamus?",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, recusandae. Ducimus assumenda inventore, rem recusandae distinctio animi doloribus nam, veritatis praesentium eligendi quas explicabo nesciunt sequi doloremque tenetur. Eaque, architecto porro nostrum quam ab maiores voluptates expedita. Voluptatibus explicabo nam unde? Eveniet facilis adipisci nemo pariatur repellat doloribus, beatae accusamus?",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, recusandae. Ducimus assumenda inventore, rem recusandae distinctio animi doloribus nam, veritatis praesentium eligendi quas explicabo nesciunt sequi doloremque tenetur. Eaque, architecto porro nostrum quam ab maiores voluptates expedita. Voluptatibus explicabo nam unde? Eveniet facilis adipisci nemo pariatur repellat doloribus, beatae accusamus?",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, recusandae. Ducimus assumenda inventore, rem recusandae distinctio animi doloribus nam, veritatis praesentium eligendi quas explicabo nesciunt sequi doloremque tenetur. Eaque, architecto porro nostrum quam ab maiores voluptates expedita. Voluptatibus explicabo nam unde? Eveniet facilis adipisci nemo pariatur repellat doloribus, beatae accusamus?",
+            "image": "images/fingerprint.svg"
+        }
+    ]
+}
